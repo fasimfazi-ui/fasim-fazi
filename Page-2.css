@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/Untitled-3.jpg");
+  background-image: url("/images/Untitled-3.jpg");
   background-position: 50% 50%;
   min-height: 795px;
 }
@@ -12,7 +12,7 @@
 .u-section-1 .u-image-1 {
   min-height: 730px;
   filter: none;
-  background-image: url("images/Gemini_Generated_Image_97mxcj97mxcj97mx1.png");
+  background-image: url("/images/Gemini_Generated_Image_97mxcj97mxcj97mx1.png");
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -808,7 +808,7 @@
     font-size: 2.25rem;
   }
 } .u-section-4 {
-  background-image: url("images/Untitled-28.jpg");
+  background-image: url("/images/Untitled-28.jpg");
   background-position: 50% 50%;
 }
 
@@ -823,7 +823,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 554px;
-  background-image: url("images/Gemini_Generated_Image_x9ivpkx9ivpkx9iv.png");
+  background-image: url("/images/Gemini_Generated_Image_x9ivpkx9ivpkx9iv.png");
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -1254,7 +1254,7 @@
     font-size: 1.5rem;
   }
 } .u-section-7 {
-  background-image: url("images/Untitled-3.jpg");
+  background-image: url("/images/Untitled-3.jpg");
   background-position: 50% 50%;
 }
 
@@ -1269,7 +1269,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 554px;
-  background-image: url("images/Gemini_Generated_Image_glc3r4glc3r4glc3.png");
+  background-image: url("/images/Gemini_Generated_Image_glc3r4glc3r4glc3.png");
 }
 
 .u-section-7 .u-container-layout-1 {
